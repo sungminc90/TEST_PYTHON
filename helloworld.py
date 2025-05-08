@@ -1,2 +1,2 @@
-# hello.py
-print("Hello from GitHub + Jenkins!")
+def hello():
+    return "Hello, World!"
